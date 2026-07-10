@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "BotAFK",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "SIKAIBOLOCK.aternos.me",
     "port": 32929,
-    "version": "26.1.2",
+    "version": "1.16.5",
     "try-creative": true
   },
   "position": {
