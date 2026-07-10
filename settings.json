@@ -8,8 +8,8 @@
   "server": {
     "ip": "SIKAIBOLOCK.aternos.me",
     "port": 32929,
-    "version": "",
-    "try-creative": false
+    "version": "26.1.2",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
