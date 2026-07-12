@@ -8,7 +8,7 @@
   "server": {
     "ip": "SIKAIBOLOCK.aternos.me",
     "port": 32929,
-    "version": "1.21.10",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 180,
       "messages": [
-        "https://www.youtube.com/shorts/uh5aosiCU-0?feature=share!"
+        "Nhót"
       ]
     },
     "chat-log": true,
