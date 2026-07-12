@@ -8,7 +8,7 @@
   "server": {
     "ip": "SIKAIBOLOCK.aternos.me",
     "port": 32929,
-    "version": "1.16.5",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": false,
+      "enabled": true,
       "password": "chalol78"
     },
     "anti-afk": {
@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 180,
       "messages": [
         "Em Bỏ Anh À 😭!"
       ]
